@@ -35,10 +35,11 @@ I hope to connect and work together on learning with anyone into crazy animation
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 <hr />
 
-**Ongoing Projects:**  
-🚧 "Tuffi & Koko" – a gamified productivity web app with mascot companions  
-🎮 Mini pixel-world animations for fun!  
-🌌 Personal portfolio with interactive starry scroll scenes  
+**Ongoing Works:**  
+🚧 Web Development Bootcamp  
+🎮 Three.js Journey 
+🐍 Python 100 Days of Code
+🌌 Personal portfolio projects  
 <hr />
 
 <!--
