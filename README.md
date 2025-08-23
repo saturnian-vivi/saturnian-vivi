@@ -37,12 +37,13 @@ I hope to connect and work together on learning with anyone into crazy animation
 
 **Ongoing Works:**  
 🚧 Web Development Bootcamp  
-🎮 Three.js Journey 
-🐍 Python 100 Days of Code
-🌌 Personal portfolio projects  
-<hr />
+🎮 Three.js Journey   
+🐍 Python 100 Days of Code  
+🌌 Personal portfolio projects    
+
 
 <!--
+<hr />
 **Let's connect!** 
 
 ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
